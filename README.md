@@ -4,7 +4,7 @@
 
 We can type equations, for example
 
-$$\text{P}\(a<X<b\)=\int_{a}^{b}f(x)dx$$
+$$\text{P}\(a<X<b\)=\Int_{a}^{b}f(x)dx$$
 
 ## Highlight Code 
 
