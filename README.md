@@ -4,7 +4,7 @@
 
 We can type equations, for example
 
-$$\sqrt{x^2+2x}$$
+$$\text{P}\(a<X<b\)=\int_{a}^{b}f(x)dx$$
 
 ## Highlight Code 
 
