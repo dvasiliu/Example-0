@@ -4,7 +4,7 @@
 
 We can type equations, for example
 
-\[ \int_{a}^{b} x^2 \,dx \]
+$$ \int_{a}^{b} x^2 \,dx $$
 
 ## Highlight Code 
 
