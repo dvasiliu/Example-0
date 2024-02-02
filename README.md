@@ -4,7 +4,7 @@
 
 We can type equations, for example
 
-$$ P(a<X<b)= \int_{a}^{b} x^2 dx $$
+$$ P(a<X<b) = \int_{a}^{b} x^2 dx $$
 
 ## Highlight Code 
 
