@@ -5,7 +5,7 @@
 
 We can type equations, for example
 
-$$ \int\limits_{a}^{b} f(x) dx $$
+$$ P\left(a<X<b\right) := \int\limits_{a}^{b} f(x) dx $$
 
 ## Highlight Code 
 
