@@ -1,10 +1,11 @@
+
 # Example-0
 
 ## Section Name
 
 We can type equations, for example
 
-$$ \int_{a}^{b} f(x) dx $$
+$$ \int\limits_{a}^{b} f(x) dx $$
 
 ## Highlight Code 
 
